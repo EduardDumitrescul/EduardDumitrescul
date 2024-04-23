@@ -7,6 +7,7 @@ I have experience using programming languages such as C/C++, Kotlin, Python, HTM
 
 <img align="left" height="320em" style="padding: 1em 1em rem 0em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardDumitrescul&langs_count=8&theme=dracula" alt=EduardDumitrescul />
 
+
 ### Back End
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -28,6 +29,9 @@ I have experience using programming languages such as C/C++, Kotlin, Python, HTM
 ![Static Badge](https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+
+</br>
 
 ### Other
 ![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
