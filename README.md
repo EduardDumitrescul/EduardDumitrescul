@@ -5,7 +5,7 @@ I have experience using programming languages such as C/C++, Kotlin, Python, HTM
 
 ## Tech Stack
 
-<img align="left" height="320em" style="padding: 1em 1em 1em 0em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardDumitrescul&langs_count=8&theme=dracula" alt=EduardDumitrescul />
+<img align="left" height="320em" style="padding: 1em 1em rem 0em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardDumitrescul&langs_count=8&theme=dracula" alt=EduardDumitrescul />
 
 ### Back End
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
