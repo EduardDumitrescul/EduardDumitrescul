@@ -4,6 +4,9 @@ I am Eduard-Valentin Dumitrescul and I am currently pursuing a **Bachelor’s De
 I have experience using programming languages such as C/C++, Kotlin, Python, HTML/CSS, Java, C#, TypeScript, PL/SQL, and Haskell. My technical expertise extends to areas like Data Structures and Algorithms, Databases (including Oracle, SQL Server, and Android Room Library), UI Design, and Design Patterns. Additionally, I possess valuable non-technical skills in Teaching and Leadership.
 
 ## Tech Stack
+
+<img align="left" height="320em" style="padding: 1em 1em 1em 0em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardDumitrescul&langs_count=8&theme=dracula" alt=EduardDumitrescul />
+
 ### Back End
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -11,6 +14,7 @@ I have experience using programming languages such as C/C++, Kotlin, Python, HTM
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&&logo=sharp&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Haskell-%235D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+
 
 
 ### Front End
